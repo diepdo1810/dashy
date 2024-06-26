@@ -87,6 +87,7 @@ export default {
   nav {
     display: flex;
     align-items: center;
+    justify-content: center;
     .nav-item {
       display: inline-block;
       padding: 0.75rem 0.5rem;

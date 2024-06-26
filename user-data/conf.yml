@@ -27,4 +27,16 @@ sections:
     description: github
     icon: https://i.ibb.co/GFwxCwn/github.png
     url: https://github.com/diepdo1810
-  
+- name: Music
+  icon: fas fa-music
+  items:
+  - title: Spotify
+    description: Listen to music
+    icon: https://i.ibb.co/7y3vJ2v/spotify.png
+    url: https://open.spotify.com/
+    target: newtab
+  - title: SoundCloud
+    description: Listen to music
+    icon: https://i.ibb.co/7y3vJ2v/spotify.png
+    url: https://soundcloud.com/
+    target: newtab
