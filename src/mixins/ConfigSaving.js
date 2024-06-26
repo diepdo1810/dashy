@@ -40,10 +40,7 @@ export default {
       // 3. Prepare the request
       const baseUrl = process.env.VUE_APP_DOMAIN || window.location.origin;
       const endpoint = `${baseUrl}${serviceEndpoints.save}`;
-      const headers = {
-        'Content-Type': 'application/x-www-form-urlencoded',
-        'Access-Control-Allow-Origin': '*',
-      };
+      const headers = { 'Content-Type': 'text/plain' };
       const filename = isSubPag
         ? (this.$store.state.currentConfigInfo.confPath || '') : '';
       const body = { config: yaml, timestamp: new Date(), filename };
