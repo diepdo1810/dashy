@@ -27,16 +27,26 @@ sections:
     description: github
     icon: https://i.ibb.co/GFwxCwn/github.png
     url: https://github.com/diepdo1810
-- name: Music
+- name: Music (LERNING)
   icon: fas fa-music
   items:
-  - title: Spotify
+  - title: What is Transactions? 
     description: Listen to music
-    icon: https://i.ibb.co/7y3vJ2v/spotify.png
-    url: https://open.spotify.com/
+    icon: https://cdn1.suno.ai/image_9440985b-1f67-4daa-ac4a-9fbd802518df.png
+    url: https://suno.com/song/9440985b-1f67-4daa-ac4a-9fbd802518df
     target: newtab
-  - title: SoundCloud
+  - title: ORM
     description: Listen to music
-    icon: https://i.ibb.co/7y3vJ2v/spotify.png
-    url: https://soundcloud.com/
+    icon: https://cdn1.suno.ai/image_4c55fe60-402f-4c63-a4fd-c2cc8836cfa8.png
+    url: https://suno.com/song/4c55fe60-402f-4c63-a4fd-c2cc8836cfa8
+    target: newtab
+  - title: JWT
+    description: Listen to music
+    icon: https://cdn1.suno.ai/image_1140ddbc-a23b-4373-93c2-6e9b15ebc33c.png
+    url: https://suno.com/song/1140ddbc-a23b-4373-93c2-6e9b15ebc33c
+    target: newtab
+  - title: REST API
+    description: Listen to music
+    icon: https://cdn1.suno.ai/image_1972b423-4f61-4ed3-b01f-3a11335faa13.png
+    url: https://suno.com/song/1972b423-4f61-4ed3-b01f-3a11335faa13
     target: newtab
